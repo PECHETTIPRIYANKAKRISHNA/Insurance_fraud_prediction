@@ -31,4 +31,6 @@ FRAUD PREDICTION
 
 <img width="317" alt="fraud prediction" src="https://user-images.githubusercontent.com/98581209/167900848-05ba60df-b46a-4a54-a438-4586e6144911.png">
 
+The above files consist of complete data.Please go through it step by step.
+
 Thankyou for reading!!!
