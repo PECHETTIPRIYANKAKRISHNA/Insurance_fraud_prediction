@@ -19,7 +19,7 @@ We perform different model building techniques like logistic regression,Decision
 As Random forest is giving highest accuracy we use this model for our deployment.
 
 # DEPLOYMENT
-We load the data in pickle file and use this data for our deployment purpose.We use streamlit for our deployment purpose.
+We load the data in pickle file and use this data for our deployment purpose.We use streamlit and run the code in spyder once there are no errors we can run the code in the anaconda prompt or anaconda environment.
 
 The output of streamlit will be as follows
 
